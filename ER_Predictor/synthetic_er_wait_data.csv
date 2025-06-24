@@ -1,0 +1,1001 @@
+arrival_time,queue_length,staff_available,symptom_text,day_of_week,hour,triage_level,wait_time_minutes
+2025-06-30 09:10:00,6,7,High fever and chills,Monday,9,Medium,20
+2025-06-14 07:03:00,19,2,Mild headache and nausea,Saturday,7,Low,54
+2025-06-20 13:37:00,14,2,Difficulty breathing,Friday,13,Low,48
+2025-06-30 02:42:00,10,1,Mild headache and nausea,Monday,2,Low,36
+2025-06-04 07:52:00,7,3,Broken ankle after fall,Wednesday,7,Low,26
+2025-06-10 02:54:00,6,6,Severe abdominal pain,Tuesday,2,Medium,23
+2025-06-10 14:23:00,18,8,Severe abdominal pain,Tuesday,14,Medium,41
+2025-06-01 16:42:00,10,9,Minor cuts and bruises,Sunday,16,Low,14
+2025-06-08 23:07:00,10,7,Severe abdominal pain,Sunday,23,Medium,25
+2025-06-28 05:19:00,3,4,Mild headache and nausea,Saturday,5,Low,17
+2025-06-25 08:47:00,7,6,Skin rash and itching,Wednesday,8,Low,22
+2025-06-23 18:42:00,2,5,Vomiting and dehydration,Monday,18,Low,12
+2025-06-03 20:43:00,1,8,Mild headache and nausea,Tuesday,20,Low,0
+2025-06-21 23:50:00,11,1,Mild headache and nausea,Saturday,23,Low,34
+2025-06-17 20:35:00,5,1,Blurry vision and dizziness,Tuesday,20,Low,24
+2025-06-12 16:40:00,1,6,Vomiting and dehydration,Thursday,16,Low,4
+2025-06-01 10:51:00,0,2,Broken ankle after fall,Sunday,10,Low,14
+2025-06-19 10:52:00,11,5,Severe abdominal pain,Thursday,10,Medium,33
+2025-06-10 08:59:00,11,1,Vomiting and dehydration,Tuesday,8,Low,37
+2025-06-19 02:35:00,16,7,Severe abdominal pain,Thursday,2,Medium,36
+2025-06-11 13:33:00,9,1,Minor cuts and bruises,Wednesday,13,Low,31
+2025-06-13 06:14:00,15,4,Vomiting and dehydration,Friday,6,Low,46
+2025-06-27 13:09:00,14,9,Severe abdominal pain,Friday,13,Medium,23
+2025-06-11 21:11:00,14,1,Broken ankle after fall,Wednesday,21,Low,48
+2025-06-06 01:15:00,18,4,Patient reports chest pain and shortness of breath,Friday,1,High,65
+2025-06-01 21:59:00,11,6,High fever and chills,Sunday,21,Medium,34
+2025-06-22 11:42:00,19,6,High fever and chills,Sunday,11,Medium,39
+2025-06-16 18:37:00,2,8,Broken ankle after fall,Monday,18,Low,7
+2025-06-28 14:40:00,4,1,Blurry vision and dizziness,Saturday,14,Low,25
+2025-06-19 18:11:00,18,7,Patient reports chest pain and shortness of breath,Thursday,18,High,58
+2025-06-16 22:18:00,6,1,Minor cuts and bruises,Monday,22,Low,29
+2025-06-07 18:27:00,8,7,Broken ankle after fall,Saturday,18,Low,24
+2025-06-15 15:03:00,6,3,High fever and chills,Sunday,15,Medium,28
+2025-06-11 03:41:00,17,8,High fever and chills,Wednesday,3,Medium,42
+2025-06-21 22:44:00,3,3,High fever and chills,Saturday,22,Medium,22
+2025-06-28 21:07:00,13,1,Difficulty breathing,Saturday,21,Low,47
+2025-06-09 03:38:00,17,8,Broken ankle after fall,Monday,3,Low,45
+2025-06-09 05:35:00,8,3,Mild headache and nausea,Monday,5,Low,27
+2025-06-09 13:44:00,1,2,Minor cuts and bruises,Monday,13,Low,18
+2025-06-04 02:17:00,19,1,High fever and chills,Wednesday,2,Medium,52
+2025-06-17 16:01:00,14,3,Severe abdominal pain,Tuesday,16,Medium,38
+2025-06-29 11:15:00,6,2,Broken ankle after fall,Sunday,11,Low,24
+2025-06-13 14:14:00,11,2,Difficulty breathing,Friday,14,Low,36
+2025-06-04 10:37:00,7,6,Broken ankle after fall,Wednesday,10,Low,17
+2025-06-09 21:24:00,14,1,Minor cuts and bruises,Monday,21,Low,39
+2025-06-20 23:07:00,2,2,Difficulty breathing,Friday,23,Low,18
+2025-06-27 08:23:00,13,6,Minor cuts and bruises,Friday,8,Low,37
+2025-06-22 19:53:00,16,3,Broken ankle after fall,Sunday,19,Low,48
+2025-06-19 11:50:00,3,4,Mild headache and nausea,Thursday,11,Low,18
+2025-06-16 03:35:00,17,1,Minor cuts and bruises,Monday,3,Low,57
+2025-06-09 07:49:00,7,8,Difficulty breathing,Monday,7,Low,13
+2025-06-25 11:05:00,3,7,Difficulty breathing,Wednesday,11,Low,10
+2025-06-02 10:44:00,1,7,Minor cuts and bruises,Monday,10,Low,0
+2025-06-07 10:04:00,5,3,Skin rash and itching,Saturday,10,Low,24
+2025-06-16 19:44:00,9,3,Broken ankle after fall,Monday,19,Low,29
+2025-06-17 07:06:00,3,2,Skin rash and itching,Tuesday,7,Low,20
+2025-06-07 00:33:00,17,1,Blurry vision and dizziness,Saturday,0,Low,43
+2025-06-06 12:06:00,11,7,Broken ankle after fall,Friday,12,Low,21
+2025-06-10 14:56:00,1,7,Minor cuts and bruises,Tuesday,14,Low,6
+2025-06-16 17:35:00,9,2,Patient reports chest pain and shortness of breath,Monday,17,High,49
+2025-06-28 19:32:00,3,7,Minor cuts and bruises,Saturday,19,Low,6
+2025-06-05 07:58:00,13,8,Skin rash and itching,Thursday,7,Low,30
+2025-06-09 15:27:00,15,1,Mild headache and nausea,Monday,15,Low,40
+2025-06-02 00:06:00,14,9,Minor cuts and bruises,Monday,0,Low,24
+2025-06-23 21:03:00,7,7,Minor cuts and bruises,Monday,21,Low,21
+2025-06-20 07:45:00,13,3,Mild headache and nausea,Friday,7,Low,39
+2025-06-11 04:30:00,7,8,Minor cuts and bruises,Wednesday,4,Low,11
+2025-06-02 09:04:00,15,7,High fever and chills,Monday,9,Medium,39
+2025-06-26 21:40:00,12,8,Patient reports chest pain and shortness of breath,Thursday,21,High,36
+2025-06-16 23:05:00,17,6,Severe abdominal pain,Monday,23,Medium,42
+2025-06-25 10:27:00,14,9,Patient reports chest pain and shortness of breath,Wednesday,10,High,37
+2025-06-14 06:31:00,12,5,Minor cuts and bruises,Saturday,6,Low,34
+2025-06-30 11:41:00,8,3,High fever and chills,Monday,11,Medium,35
+2025-06-14 12:08:00,14,3,Broken ankle after fall,Saturday,12,Low,36
+2025-06-12 09:49:00,12,1,Minor cuts and bruises,Thursday,9,Low,45
+2025-06-12 16:35:00,0,8,Skin rash and itching,Thursday,16,Low,0
+2025-06-27 20:48:00,6,2,High fever and chills,Friday,20,Medium,30
+2025-06-25 13:17:00,8,3,Mild headache and nausea,Wednesday,13,Low,26
+2025-06-09 02:05:00,0,8,High fever and chills,Monday,2,Medium,8
+2025-06-27 12:14:00,11,8,Mild headache and nausea,Friday,12,Low,19
+2025-06-27 21:02:00,7,4,Blurry vision and dizziness,Friday,21,Low,24
+2025-06-10 08:34:00,10,4,Severe abdominal pain,Tuesday,8,Medium,37
+2025-06-16 17:52:00,18,5,Vomiting and dehydration,Monday,17,Low,42
+2025-06-07 23:55:00,16,6,High fever and chills,Saturday,23,Medium,40
+2025-06-20 00:05:00,7,5,Difficulty breathing,Friday,0,Low,18
+2025-06-09 22:25:00,2,7,Skin rash and itching,Monday,22,Low,6
+2025-06-14 07:10:00,2,2,Minor cuts and bruises,Saturday,7,Low,18
+2025-06-10 23:50:00,0,7,Skin rash and itching,Tuesday,23,Low,2
+2025-06-27 04:33:00,4,7,Patient reports chest pain and shortness of breath,Friday,4,High,22
+2025-06-18 05:44:00,9,1,Vomiting and dehydration,Wednesday,5,Low,37
+2025-06-20 16:05:00,6,7,Patient reports chest pain and shortness of breath,Friday,16,High,34
+2025-06-30 09:52:00,8,5,Blurry vision and dizziness,Monday,9,Low,21
+2025-06-09 10:13:00,6,3,Vomiting and dehydration,Monday,10,Low,27
+2025-06-07 06:33:00,8,3,Vomiting and dehydration,Saturday,6,Low,28
+2025-06-30 01:53:00,7,4,Patient reports chest pain and shortness of breath,Monday,1,High,40
+2025-06-15 19:25:00,11,2,Mild headache and nausea,Sunday,19,Low,37
+2025-06-21 03:05:00,1,2,Patient reports chest pain and shortness of breath,Saturday,3,High,31
+2025-06-24 23:12:00,0,1,Skin rash and itching,Tuesday,23,Low,17
+2025-06-21 07:12:00,15,5,Mild headache and nausea,Saturday,7,Low,32
+2025-06-28 08:18:00,4,4,Skin rash and itching,Saturday,8,Low,17
+2025-06-30 14:02:00,2,2,Blurry vision and dizziness,Monday,14,Low,18
+2025-06-04 16:02:00,11,3,Minor cuts and bruises,Wednesday,16,Low,30
+2025-06-06 21:03:00,7,7,Broken ankle after fall,Friday,21,Low,16
+2025-06-09 06:56:00,2,7,Mild headache and nausea,Monday,6,Low,7
+2025-06-25 09:15:00,0,4,Blurry vision and dizziness,Wednesday,9,Low,8
+2025-06-04 19:01:00,2,5,Difficulty breathing,Wednesday,19,Low,8
+2025-06-14 00:50:00,4,5,Blurry vision and dizziness,Saturday,0,Low,15
+2025-06-20 03:06:00,14,6,Patient reports chest pain and shortness of breath,Friday,3,High,53
+2025-06-12 11:59:00,13,9,Patient reports chest pain and shortness of breath,Thursday,11,High,44
+2025-06-13 09:44:00,2,2,Broken ankle after fall,Friday,9,Low,17
+2025-06-28 17:55:00,0,5,Blurry vision and dizziness,Saturday,17,Low,9
+2025-06-01 11:46:00,4,3,Severe abdominal pain,Sunday,11,Medium,22
+2025-06-28 08:57:00,13,4,Minor cuts and bruises,Saturday,8,Low,31
+2025-06-30 02:51:00,6,6,Patient reports chest pain and shortness of breath,Monday,2,High,34
+2025-06-24 23:43:00,8,8,Broken ankle after fall,Tuesday,23,Low,14
+2025-06-23 13:42:00,14,1,Minor cuts and bruises,Monday,13,Low,46
+2025-06-21 08:26:00,14,8,Blurry vision and dizziness,Saturday,8,Low,32
+2025-06-09 04:18:00,9,7,Blurry vision and dizziness,Monday,4,Low,20
+2025-06-07 02:46:00,12,1,Vomiting and dehydration,Saturday,2,Low,41
+2025-06-12 08:36:00,18,2,Broken ankle after fall,Thursday,8,Low,47
+2025-06-13 00:23:00,6,3,Patient reports chest pain and shortness of breath,Friday,0,High,42
+2025-06-12 02:27:00,16,1,Severe abdominal pain,Thursday,2,Medium,47
+2025-06-03 22:53:00,19,9,Blurry vision and dizziness,Tuesday,22,Low,40
+2025-06-06 07:20:00,3,8,Severe abdominal pain,Friday,7,Medium,13
+2025-06-25 20:52:00,4,2,Blurry vision and dizziness,Wednesday,20,Low,21
+2025-06-03 08:24:00,6,9,Patient reports chest pain and shortness of breath,Tuesday,8,High,24
+2025-06-26 23:28:00,12,7,Minor cuts and bruises,Thursday,23,Low,32
+2025-06-05 08:53:00,14,9,High fever and chills,Thursday,8,Medium,27
+2025-06-23 10:34:00,10,6,Minor cuts and bruises,Monday,10,Low,31
+2025-06-16 01:34:00,3,6,Blurry vision and dizziness,Monday,1,Low,13
+2025-06-30 03:38:00,12,4,Skin rash and itching,Monday,3,Low,32
+2025-06-21 19:42:00,6,2,High fever and chills,Saturday,19,Medium,31
+2025-06-02 07:59:00,18,7,High fever and chills,Monday,7,Medium,50
+2025-06-30 12:50:00,1,5,Severe abdominal pain,Monday,12,Medium,13
+2025-06-05 20:01:00,9,6,Broken ankle after fall,Thursday,20,Low,18
+2025-06-16 15:58:00,12,2,Severe abdominal pain,Monday,15,Medium,38
+2025-06-28 09:54:00,5,5,Severe abdominal pain,Saturday,9,Medium,25
+2025-06-12 03:17:00,11,4,Skin rash and itching,Thursday,3,Low,37
+2025-06-17 05:19:00,11,9,Minor cuts and bruises,Tuesday,5,Low,25
+2025-06-16 01:35:00,19,6,Minor cuts and bruises,Monday,1,Low,47
+2025-06-20 10:44:00,10,2,Difficulty breathing,Friday,10,Low,31
+2025-06-13 21:38:00,6,1,Blurry vision and dizziness,Friday,21,Low,28
+2025-06-16 16:17:00,0,5,Skin rash and itching,Monday,16,Low,8
+2025-06-04 09:29:00,0,9,Difficulty breathing,Wednesday,9,Low,0
+2025-06-21 20:14:00,19,6,Patient reports chest pain and shortness of breath,Saturday,20,High,51
+2025-06-06 18:12:00,12,7,Blurry vision and dizziness,Friday,18,Low,18
+2025-06-11 16:31:00,8,5,Blurry vision and dizziness,Wednesday,16,Low,24
+2025-06-27 06:57:00,2,6,Vomiting and dehydration,Friday,6,Low,7
+2025-06-12 23:31:00,6,5,Vomiting and dehydration,Thursday,23,Low,16
+2025-06-30 18:00:00,5,9,Mild headache and nausea,Monday,18,Low,6
+2025-06-26 00:15:00,7,6,Mild headache and nausea,Thursday,0,Low,22
+2025-06-19 18:07:00,8,8,Severe abdominal pain,Thursday,18,Medium,22
+2025-06-13 12:21:00,4,2,Patient reports chest pain and shortness of breath,Friday,12,High,36
+2025-06-22 22:58:00,0,9,High fever and chills,Sunday,22,Medium,1
+2025-06-14 14:35:00,18,5,High fever and chills,Saturday,14,Medium,45
+2025-06-02 11:05:00,9,7,Vomiting and dehydration,Monday,11,Low,23
+2025-06-23 10:35:00,11,1,Vomiting and dehydration,Monday,10,Low,39
+2025-06-20 08:28:00,14,5,Vomiting and dehydration,Friday,8,Low,27
+2025-06-19 13:07:00,8,2,Skin rash and itching,Thursday,13,Low,32
+2025-06-14 18:20:00,19,6,Broken ankle after fall,Saturday,18,Low,46
+2025-06-23 03:40:00,16,1,Mild headache and nausea,Monday,3,Low,41
+2025-06-04 22:43:00,16,3,Skin rash and itching,Wednesday,22,Low,49
+2025-06-19 19:17:00,19,5,Minor cuts and bruises,Thursday,19,Low,38
+2025-06-03 03:13:00,11,4,High fever and chills,Tuesday,3,Medium,39
+2025-06-12 09:26:00,6,3,Blurry vision and dizziness,Thursday,9,Low,23
+2025-06-30 09:18:00,1,5,Mild headache and nausea,Monday,9,Low,11
+2025-06-05 20:11:00,2,8,Difficulty breathing,Thursday,20,Low,2
+2025-06-18 20:31:00,16,4,Minor cuts and bruises,Wednesday,20,Low,48
+2025-06-22 12:58:00,4,1,Mild headache and nausea,Sunday,12,Low,26
+2025-06-22 21:02:00,16,7,Skin rash and itching,Sunday,21,Low,39
+2025-06-28 12:39:00,16,8,Patient reports chest pain and shortness of breath,Saturday,12,High,50
+2025-06-23 19:16:00,16,3,Blurry vision and dizziness,Monday,19,Low,49
+2025-06-13 09:25:00,1,6,Mild headache and nausea,Friday,9,Low,4
+2025-06-08 03:49:00,1,2,Broken ankle after fall,Sunday,3,Low,16
+2025-06-09 12:31:00,4,7,Vomiting and dehydration,Monday,12,Low,8
+2025-06-26 02:39:00,0,8,Vomiting and dehydration,Thursday,2,Low,0
+2025-06-24 12:53:00,0,6,Blurry vision and dizziness,Tuesday,12,Low,3
+2025-06-12 08:28:00,18,6,Skin rash and itching,Thursday,8,Low,51
+2025-06-09 11:58:00,1,5,Vomiting and dehydration,Monday,11,Low,9
+2025-06-10 05:21:00,11,8,Mild headache and nausea,Tuesday,5,Low,24
+2025-06-26 12:04:00,5,1,Difficulty breathing,Thursday,12,Low,27
+2025-06-15 04:05:00,3,4,High fever and chills,Sunday,4,Medium,19
+2025-06-24 04:02:00,10,4,High fever and chills,Tuesday,4,Medium,32
+2025-06-30 08:15:00,16,3,Minor cuts and bruises,Monday,8,Low,35
+2025-06-11 15:35:00,5,3,Severe abdominal pain,Wednesday,15,Medium,27
+2025-06-12 12:28:00,4,4,Patient reports chest pain and shortness of breath,Thursday,12,High,33
+2025-06-23 10:16:00,19,1,Blurry vision and dizziness,Monday,10,Low,61
+2025-06-02 15:38:00,1,2,Minor cuts and bruises,Monday,15,Low,17
+2025-06-11 05:46:00,5,9,Severe abdominal pain,Wednesday,5,Medium,9
+2025-06-30 19:11:00,10,2,Skin rash and itching,Monday,19,Low,36
+2025-06-04 18:15:00,15,5,Broken ankle after fall,Wednesday,18,Low,35
+2025-06-17 13:20:00,15,9,Broken ankle after fall,Tuesday,13,Low,33
+2025-06-23 17:55:00,0,9,Patient reports chest pain and shortness of breath,Monday,17,High,9
+2025-06-27 01:17:00,8,8,Vomiting and dehydration,Friday,1,Low,14
+2025-06-15 16:05:00,5,1,Mild headache and nausea,Sunday,16,Low,29
+2025-06-07 10:20:00,15,1,Minor cuts and bruises,Saturday,10,Low,40
+2025-06-12 06:11:00,2,9,Minor cuts and bruises,Thursday,6,Low,3
+2025-06-10 10:47:00,19,8,Blurry vision and dizziness,Tuesday,10,Low,32
+2025-06-16 18:04:00,3,9,Blurry vision and dizziness,Monday,18,Low,5
+2025-06-26 19:01:00,18,7,Broken ankle after fall,Thursday,19,Low,37
+2025-06-14 16:34:00,2,3,Broken ankle after fall,Saturday,16,Low,17
+2025-06-25 04:23:00,18,3,Difficulty breathing,Wednesday,4,Low,55
+2025-06-17 11:20:00,19,2,Difficulty breathing,Tuesday,11,Low,44
+2025-06-10 15:01:00,6,5,Vomiting and dehydration,Tuesday,15,Low,19
+2025-06-26 05:47:00,19,3,Difficulty breathing,Thursday,5,Low,56
+2025-06-28 18:47:00,8,6,Mild headache and nausea,Saturday,18,Low,23
+2025-06-28 03:03:00,0,2,Mild headache and nausea,Saturday,3,Low,14
+2025-06-23 01:20:00,7,3,Minor cuts and bruises,Monday,1,Low,24
+2025-06-30 09:00:00,6,5,High fever and chills,Monday,9,Medium,21
+2025-06-14 19:38:00,17,1,Mild headache and nausea,Saturday,19,Low,57
+2025-06-11 03:55:00,7,1,Severe abdominal pain,Wednesday,3,Medium,37
+2025-06-07 04:13:00,0,9,Broken ankle after fall,Saturday,4,Low,0
+2025-06-27 07:43:00,10,7,Blurry vision and dizziness,Friday,7,Low,20
+2025-06-30 18:15:00,17,1,Difficulty breathing,Monday,18,Low,49
+2025-06-27 23:49:00,9,8,Minor cuts and bruises,Friday,23,Low,16
+2025-06-23 10:01:00,2,3,Patient reports chest pain and shortness of breath,Monday,10,High,30
+2025-06-16 08:54:00,6,8,Blurry vision and dizziness,Monday,8,Low,12
+2025-06-18 12:37:00,15,5,Severe abdominal pain,Wednesday,12,Medium,40
+2025-06-04 14:17:00,15,1,Difficulty breathing,Wednesday,14,Low,50
+2025-06-12 10:07:00,19,7,Severe abdominal pain,Thursday,10,Medium,39
+2025-06-22 04:45:00,16,5,Broken ankle after fall,Sunday,4,Low,42
+2025-06-14 20:40:00,1,6,Broken ankle after fall,Saturday,20,Low,7
+2025-06-08 08:26:00,0,6,Vomiting and dehydration,Sunday,8,Low,3
+2025-06-07 06:00:00,15,8,Minor cuts and bruises,Saturday,6,Low,34
+2025-06-17 15:46:00,11,9,Blurry vision and dizziness,Tuesday,15,Low,23
+2025-06-16 23:33:00,4,2,Skin rash and itching,Monday,23,Low,24
+2025-06-16 12:09:00,4,9,Skin rash and itching,Monday,12,Low,3
+2025-06-12 11:41:00,8,9,Blurry vision and dizziness,Thursday,11,Low,17
+2025-06-01 07:06:00,8,7,Patient reports chest pain and shortness of breath,Sunday,7,High,32
+2025-06-10 15:05:00,2,1,Minor cuts and bruises,Tuesday,15,Low,21
+2025-06-28 07:58:00,18,7,Severe abdominal pain,Saturday,7,Medium,36
+2025-06-24 01:04:00,15,5,Patient reports chest pain and shortness of breath,Tuesday,1,High,45
+2025-06-21 10:50:00,15,6,High fever and chills,Saturday,10,Medium,35
+2025-06-05 13:32:00,2,7,Blurry vision and dizziness,Thursday,13,Low,9
+2025-06-05 14:18:00,19,5,Severe abdominal pain,Thursday,14,Medium,56
+2025-06-03 03:42:00,0,7,Skin rash and itching,Tuesday,3,Low,4
+2025-06-17 23:16:00,19,9,Mild headache and nausea,Tuesday,23,Low,35
+2025-06-02 19:08:00,10,3,Vomiting and dehydration,Monday,19,Low,32
+2025-06-28 02:09:00,16,8,Skin rash and itching,Saturday,2,Low,26
+2025-06-19 14:08:00,7,2,Minor cuts and bruises,Thursday,14,Low,30
+2025-06-28 16:59:00,3,7,Broken ankle after fall,Saturday,16,Low,5
+2025-06-19 19:10:00,5,2,Mild headache and nausea,Thursday,19,Low,28
+2025-06-27 09:51:00,7,4,Vomiting and dehydration,Friday,9,Low,24
+2025-06-22 07:23:00,19,7,Vomiting and dehydration,Sunday,7,Low,44
+2025-06-24 02:52:00,2,3,High fever and chills,Tuesday,2,Medium,20
+2025-06-27 02:43:00,15,2,High fever and chills,Friday,2,Medium,51
+2025-06-20 05:14:00,2,7,Difficulty breathing,Friday,5,Low,8
+2025-06-06 21:58:00,17,1,Skin rash and itching,Friday,21,Low,56
+2025-06-23 19:42:00,13,8,Skin rash and itching,Monday,19,Low,23
+2025-06-29 15:55:00,17,3,Skin rash and itching,Sunday,15,Low,51
+2025-06-26 18:48:00,1,2,Difficulty breathing,Thursday,18,Low,16
+2025-06-14 22:44:00,2,3,Patient reports chest pain and shortness of breath,Saturday,22,High,31
+2025-06-05 04:46:00,15,5,Vomiting and dehydration,Thursday,4,Low,42
+2025-06-06 18:23:00,8,8,Mild headache and nausea,Friday,18,Low,11
+2025-06-02 18:15:00,3,7,Minor cuts and bruises,Monday,18,Low,9
+2025-06-30 07:37:00,0,7,Vomiting and dehydration,Monday,7,Low,0
+2025-06-27 10:26:00,3,7,High fever and chills,Friday,10,Medium,11
+2025-06-12 17:04:00,0,8,Severe abdominal pain,Thursday,17,Medium,6
+2025-06-07 11:20:00,13,1,Broken ankle after fall,Saturday,11,Low,38
+2025-06-21 15:17:00,15,4,Difficulty breathing,Saturday,15,Low,42
+2025-06-19 16:06:00,19,6,Blurry vision and dizziness,Thursday,16,Low,50
+2025-06-19 10:13:00,7,9,Severe abdominal pain,Thursday,10,Medium,23
+2025-06-13 19:52:00,6,2,Minor cuts and bruises,Friday,19,Low,26
+2025-06-28 00:00:00,2,1,Skin rash and itching,Saturday,0,Low,21
+2025-06-11 16:48:00,16,2,High fever and chills,Wednesday,16,Medium,51
+2025-06-14 18:17:00,0,7,High fever and chills,Saturday,18,Medium,6
+2025-06-26 10:26:00,15,3,High fever and chills,Thursday,10,Medium,49
+2025-06-07 23:47:00,11,2,Skin rash and itching,Saturday,23,Low,38
+2025-06-14 07:56:00,18,7,Blurry vision and dizziness,Saturday,7,Low,48
+2025-06-02 01:54:00,13,2,Difficulty breathing,Monday,1,Low,40
+2025-06-12 08:21:00,5,3,Severe abdominal pain,Thursday,8,Medium,27
+2025-06-13 02:58:00,5,7,Skin rash and itching,Friday,2,Low,8
+2025-06-23 08:49:00,12,4,Minor cuts and bruises,Monday,8,Low,31
+2025-06-20 05:32:00,18,1,Difficulty breathing,Friday,5,Low,50
+2025-06-13 01:55:00,7,5,Minor cuts and bruises,Friday,1,Low,22
+2025-06-23 21:39:00,1,9,Difficulty breathing,Monday,21,Low,0
+2025-06-18 01:54:00,0,8,Blurry vision and dizziness,Wednesday,1,Low,0
+2025-06-07 20:54:00,14,9,Broken ankle after fall,Saturday,20,Low,32
+2025-06-29 03:17:00,0,9,Minor cuts and bruises,Sunday,3,Low,0
+2025-06-04 15:34:00,4,7,Skin rash and itching,Wednesday,15,Low,15
+2025-06-20 19:48:00,15,4,Difficulty breathing,Friday,19,Low,45
+2025-06-12 00:53:00,18,5,High fever and chills,Thursday,0,Medium,51
+2025-06-27 19:56:00,3,1,Vomiting and dehydration,Friday,19,Low,22
+2025-06-23 08:28:00,2,1,High fever and chills,Monday,8,Medium,26
+2025-06-24 14:45:00,16,3,Patient reports chest pain and shortness of breath,Tuesday,14,High,59
+2025-06-11 04:30:00,16,8,Broken ankle after fall,Wednesday,4,Low,37
+2025-06-23 12:20:00,11,2,Broken ankle after fall,Monday,12,Low,36
+2025-06-13 20:40:00,13,4,High fever and chills,Friday,20,Medium,46
+2025-06-06 13:09:00,5,2,Severe abdominal pain,Friday,13,Medium,30
+2025-06-29 17:29:00,2,5,Blurry vision and dizziness,Sunday,17,Low,8
+2025-06-08 12:19:00,8,9,Minor cuts and bruises,Sunday,12,Low,21
+2025-06-09 03:16:00,4,1,Skin rash and itching,Monday,3,Low,25
+2025-06-10 18:08:00,16,5,Broken ankle after fall,Tuesday,18,Low,36
+2025-06-28 12:13:00,13,9,High fever and chills,Saturday,12,Medium,34
+2025-06-18 12:35:00,2,1,High fever and chills,Wednesday,12,Medium,26
+2025-06-28 19:04:00,0,9,Blurry vision and dizziness,Saturday,19,Low,0
+2025-06-17 17:27:00,19,8,Blurry vision and dizziness,Tuesday,17,Low,41
+2025-06-26 00:45:00,0,4,Mild headache and nausea,Thursday,0,Low,9
+2025-06-04 00:37:00,2,5,Mild headache and nausea,Wednesday,0,Low,13
+2025-06-15 11:26:00,17,5,Severe abdominal pain,Sunday,11,Medium,44
+2025-06-10 08:31:00,9,6,Severe abdominal pain,Tuesday,8,Medium,23
+2025-06-30 23:32:00,2,7,Patient reports chest pain and shortness of breath,Monday,23,High,20
+2025-06-23 15:54:00,7,8,Severe abdominal pain,Monday,15,Medium,21
+2025-06-27 13:38:00,13,8,Difficulty breathing,Friday,13,Low,18
+2025-06-18 08:44:00,17,2,Blurry vision and dizziness,Wednesday,8,Low,44
+2025-06-30 11:21:00,14,9,Skin rash and itching,Monday,11,Low,15
+2025-06-20 09:22:00,1,7,Difficulty breathing,Friday,9,Low,1
+2025-06-01 02:52:00,9,4,Minor cuts and bruises,Sunday,2,Low,29
+2025-06-13 12:12:00,1,4,High fever and chills,Friday,12,Medium,16
+2025-06-10 07:54:00,16,8,Severe abdominal pain,Tuesday,7,Medium,36
+2025-06-07 00:40:00,7,4,High fever and chills,Saturday,0,Medium,30
+2025-06-19 04:30:00,0,6,Broken ankle after fall,Thursday,4,Low,3
+2025-06-26 08:54:00,8,5,Patient reports chest pain and shortness of breath,Thursday,8,High,44
+2025-06-08 10:22:00,10,3,Broken ankle after fall,Sunday,10,Low,36
+2025-06-08 02:53:00,15,2,Patient reports chest pain and shortness of breath,Sunday,2,High,58
+2025-06-03 14:22:00,6,9,Mild headache and nausea,Tuesday,14,Low,14
+2025-06-25 13:03:00,9,9,High fever and chills,Wednesday,13,Medium,26
+2025-06-14 20:00:00,2,1,Patient reports chest pain and shortness of breath,Saturday,20,High,36
+2025-06-18 23:40:00,17,3,Vomiting and dehydration,Wednesday,23,Low,41
+2025-06-05 06:59:00,12,8,Difficulty breathing,Thursday,6,Low,25
+2025-06-17 18:30:00,6,6,Patient reports chest pain and shortness of breath,Tuesday,18,High,30
+2025-06-01 12:08:00,3,5,Patient reports chest pain and shortness of breath,Sunday,12,High,29
+2025-06-19 01:10:00,12,5,Difficulty breathing,Thursday,1,Low,36
+2025-06-16 19:13:00,19,6,High fever and chills,Monday,19,Medium,53
+2025-06-17 02:46:00,0,7,High fever and chills,Tuesday,2,Medium,4
+2025-06-14 03:21:00,7,1,Difficulty breathing,Saturday,3,Low,33
+2025-06-05 13:22:00,13,9,Broken ankle after fall,Thursday,13,Low,31
+2025-06-11 11:08:00,15,3,Vomiting and dehydration,Wednesday,11,Low,39
+2025-06-25 12:31:00,13,4,Skin rash and itching,Wednesday,12,Low,35
+2025-06-30 01:34:00,11,1,Minor cuts and bruises,Monday,1,Low,43
+2025-06-04 06:43:00,18,3,Vomiting and dehydration,Wednesday,6,Low,41
+2025-06-04 23:30:00,14,2,High fever and chills,Wednesday,23,Medium,52
+2025-06-25 19:31:00,1,2,Skin rash and itching,Wednesday,19,Low,17
+2025-06-20 17:16:00,1,1,Mild headache and nausea,Friday,17,Low,19
+2025-06-27 06:46:00,18,8,Severe abdominal pain,Friday,6,Medium,47
+2025-06-30 01:05:00,16,3,Patient reports chest pain and shortness of breath,Monday,1,High,54
+2025-06-28 10:27:00,19,3,Difficulty breathing,Saturday,10,Low,45
+2025-06-05 03:57:00,9,6,Difficulty breathing,Thursday,3,Low,24
+2025-06-30 21:39:00,5,8,Patient reports chest pain and shortness of breath,Monday,21,High,29
+2025-06-25 12:54:00,14,9,Severe abdominal pain,Wednesday,12,Medium,22
+2025-06-25 20:29:00,10,9,Minor cuts and bruises,Wednesday,20,Low,19
+2025-06-05 14:55:00,4,4,Severe abdominal pain,Thursday,14,Medium,20
+2025-06-04 11:36:00,0,5,Skin rash and itching,Wednesday,11,Low,8
+2025-06-14 21:50:00,7,2,Severe abdominal pain,Saturday,21,Medium,37
+2025-06-03 13:53:00,11,9,Skin rash and itching,Tuesday,13,Low,23
+2025-06-04 14:42:00,11,8,Severe abdominal pain,Wednesday,14,Medium,25
+2025-06-09 02:16:00,4,3,Minor cuts and bruises,Monday,2,Low,21
+2025-06-25 16:46:00,6,9,Minor cuts and bruises,Wednesday,16,Low,11
+2025-06-09 09:56:00,3,3,High fever and chills,Monday,9,Medium,21
+2025-06-24 21:08:00,5,9,Patient reports chest pain and shortness of breath,Tuesday,21,High,16
+2025-06-04 18:06:00,12,2,Minor cuts and bruises,Wednesday,18,Low,34
+2025-06-11 13:48:00,19,9,Skin rash and itching,Wednesday,13,Low,36
+2025-06-12 16:03:00,14,8,Minor cuts and bruises,Thursday,16,Low,23
+2025-06-12 23:11:00,2,9,High fever and chills,Thursday,23,Medium,5
+2025-06-21 21:03:00,7,5,Difficulty breathing,Saturday,21,Low,25
+2025-06-28 05:37:00,19,2,Skin rash and itching,Saturday,5,Low,49
+2025-06-25 08:50:00,15,8,High fever and chills,Wednesday,8,Medium,33
+2025-06-28 22:52:00,12,6,Broken ankle after fall,Saturday,22,Low,29
+2025-06-26 13:26:00,17,8,Broken ankle after fall,Thursday,13,Low,41
+2025-06-26 16:28:00,9,5,Mild headache and nausea,Thursday,16,Low,29
+2025-06-15 17:08:00,18,2,Severe abdominal pain,Sunday,17,Medium,62
+2025-06-19 21:01:00,16,6,Patient reports chest pain and shortness of breath,Thursday,21,High,62
+2025-06-22 05:10:00,18,5,Blurry vision and dizziness,Sunday,5,Low,34
+2025-06-04 00:28:00,4,5,Vomiting and dehydration,Wednesday,0,Low,16
+2025-06-27 06:39:00,8,1,High fever and chills,Friday,6,Medium,40
+2025-06-01 22:26:00,11,2,Difficulty breathing,Sunday,22,Low,33
+2025-06-16 18:39:00,0,8,Vomiting and dehydration,Monday,18,Low,0
+2025-06-09 11:01:00,0,3,Difficulty breathing,Monday,11,Low,13
+2025-06-13 06:27:00,14,3,Vomiting and dehydration,Friday,6,Low,43
+2025-06-08 17:09:00,1,8,High fever and chills,Sunday,17,Medium,7
+2025-06-05 05:10:00,15,8,Blurry vision and dizziness,Thursday,5,Low,25
+2025-06-28 21:19:00,7,2,Vomiting and dehydration,Saturday,21,Low,29
+2025-06-06 20:59:00,12,8,High fever and chills,Friday,20,Medium,30
+2025-06-26 17:32:00,0,1,Minor cuts and bruises,Thursday,17,Low,17
+2025-06-26 20:36:00,15,6,Blurry vision and dizziness,Thursday,20,Low,32
+2025-06-23 18:37:00,6,8,Skin rash and itching,Monday,18,Low,13
+2025-06-01 11:03:00,4,3,Difficulty breathing,Sunday,11,Low,19
+2025-06-26 06:54:00,2,8,Broken ankle after fall,Thursday,6,Low,6
+2025-06-28 19:15:00,11,1,Severe abdominal pain,Saturday,19,Medium,49
+2025-06-03 15:32:00,15,9,Broken ankle after fall,Tuesday,15,Low,32
+2025-06-22 04:33:00,18,9,Blurry vision and dizziness,Sunday,4,Low,35
+2025-06-17 23:30:00,4,5,Skin rash and itching,Tuesday,23,Low,14
+2025-06-11 09:43:00,13,4,Difficulty breathing,Wednesday,9,Low,41
+2025-06-20 10:20:00,4,6,Skin rash and itching,Friday,10,Low,16
+2025-06-17 13:31:00,14,7,Vomiting and dehydration,Tuesday,13,Low,30
+2025-06-06 17:28:00,16,5,Difficulty breathing,Friday,17,Low,33
+2025-06-08 10:38:00,13,9,Vomiting and dehydration,Sunday,10,Low,23
+2025-06-19 19:37:00,19,3,High fever and chills,Thursday,19,Medium,52
+2025-06-20 12:51:00,4,7,Blurry vision and dizziness,Friday,12,Low,7
+2025-06-03 08:44:00,11,5,High fever and chills,Tuesday,8,Medium,30
+2025-06-14 05:26:00,15,7,Mild headache and nausea,Saturday,5,Low,35
+2025-06-05 04:32:00,15,2,Skin rash and itching,Thursday,4,Low,42
+2025-06-02 09:25:00,6,4,Vomiting and dehydration,Monday,9,Low,22
+2025-06-04 14:00:00,3,2,Minor cuts and bruises,Wednesday,14,Low,22
+2025-06-11 04:28:00,0,7,High fever and chills,Wednesday,4,Medium,8
+2025-06-27 03:26:00,4,2,Mild headache and nausea,Friday,3,Low,21
+2025-06-24 10:21:00,9,1,Patient reports chest pain and shortness of breath,Tuesday,10,High,53
+2025-06-22 02:30:00,4,9,Broken ankle after fall,Sunday,2,Low,7
+2025-06-19 04:02:00,3,1,Difficulty breathing,Thursday,4,Low,24
+2025-06-23 00:24:00,1,8,Mild headache and nausea,Monday,0,Low,5
+2025-06-17 23:45:00,19,2,Blurry vision and dizziness,Tuesday,23,Low,49
+2025-06-16 03:57:00,9,8,High fever and chills,Monday,3,Medium,26
+2025-06-02 07:12:00,18,3,Blurry vision and dizziness,Monday,7,Low,48
+2025-06-09 01:02:00,0,6,Broken ankle after fall,Monday,1,Low,2
+2025-06-06 21:35:00,4,3,Minor cuts and bruises,Friday,21,Low,18
+2025-06-10 06:36:00,12,7,Skin rash and itching,Tuesday,6,Low,27
+2025-06-22 03:27:00,3,9,Skin rash and itching,Sunday,3,Low,0
+2025-06-30 08:01:00,15,2,Blurry vision and dizziness,Monday,8,Low,43
+2025-06-09 20:09:00,15,5,Vomiting and dehydration,Monday,20,Low,40
+2025-06-29 07:31:00,1,6,Minor cuts and bruises,Sunday,7,Low,5
+2025-06-30 16:08:00,16,4,Skin rash and itching,Monday,16,Low,43
+2025-06-06 12:19:00,19,4,Minor cuts and bruises,Friday,12,Low,39
+2025-06-15 16:33:00,11,4,Mild headache and nausea,Sunday,16,Low,31
+2025-06-26 01:50:00,17,2,Minor cuts and bruises,Thursday,1,Low,52
+2025-06-09 07:10:00,2,4,Severe abdominal pain,Monday,7,Medium,19
+2025-06-06 23:10:00,0,1,Broken ankle after fall,Friday,23,Low,17
+2025-06-05 11:19:00,0,6,Skin rash and itching,Thursday,11,Low,6
+2025-06-27 11:23:00,18,1,Minor cuts and bruises,Friday,11,Low,51
+2025-06-05 20:20:00,10,6,Blurry vision and dizziness,Thursday,20,Low,28
+2025-06-23 06:06:00,4,1,Patient reports chest pain and shortness of breath,Monday,6,High,38
+2025-06-10 05:05:00,11,6,Severe abdominal pain,Tuesday,5,Medium,27
+2025-06-05 13:47:00,2,8,Severe abdominal pain,Thursday,13,Medium,7
+2025-06-11 22:01:00,0,2,Vomiting and dehydration,Wednesday,22,Low,15
+2025-06-10 14:58:00,0,2,Minor cuts and bruises,Tuesday,14,Low,15
+2025-06-25 17:48:00,7,4,Vomiting and dehydration,Wednesday,17,Low,24
+2025-06-30 21:12:00,9,3,Vomiting and dehydration,Monday,21,Low,31
+2025-06-27 17:42:00,10,4,Patient reports chest pain and shortness of breath,Friday,17,High,44
+2025-06-06 10:47:00,11,7,Mild headache and nausea,Friday,10,Low,29
+2025-06-20 00:37:00,12,1,Minor cuts and bruises,Friday,0,Low,45
+2025-06-26 05:28:00,11,6,High fever and chills,Thursday,5,Medium,29
+2025-06-11 01:30:00,13,3,Skin rash and itching,Wednesday,1,Low,35
+2025-06-25 07:05:00,1,7,Vomiting and dehydration,Wednesday,7,Low,4
+2025-06-11 17:02:00,18,2,Broken ankle after fall,Wednesday,17,Low,47
+2025-06-17 19:27:00,17,2,Difficulty breathing,Tuesday,19,Low,56
+2025-06-09 01:45:00,2,4,Broken ankle after fall,Monday,1,Low,15
+2025-06-05 16:18:00,16,1,Patient reports chest pain and shortness of breath,Thursday,16,High,60
+2025-06-03 01:26:00,7,3,Patient reports chest pain and shortness of breath,Tuesday,1,High,43
+2025-06-05 01:28:00,9,9,Blurry vision and dizziness,Thursday,1,Low,17
+2025-06-14 15:08:00,1,7,Mild headache and nausea,Saturday,15,Low,6
+2025-06-10 16:25:00,18,7,Skin rash and itching,Tuesday,16,Low,39
+2025-06-07 09:58:00,8,4,Vomiting and dehydration,Saturday,9,Low,23
+2025-06-14 18:41:00,6,2,Broken ankle after fall,Saturday,18,Low,28
+2025-06-01 06:34:00,3,4,Difficulty breathing,Sunday,6,Low,14
+2025-06-12 08:26:00,17,6,Patient reports chest pain and shortness of breath,Thursday,8,High,47
+2025-06-14 08:26:00,12,3,Patient reports chest pain and shortness of breath,Saturday,8,High,50
+2025-06-04 11:05:00,10,1,Mild headache and nausea,Wednesday,11,Low,35
+2025-06-23 09:27:00,3,8,Difficulty breathing,Monday,9,Low,5
+2025-06-02 06:32:00,3,5,Difficulty breathing,Monday,6,Low,13
+2025-06-18 15:35:00,9,5,Mild headache and nausea,Wednesday,15,Low,22
+2025-06-01 21:32:00,4,4,Patient reports chest pain and shortness of breath,Sunday,21,High,33
+2025-06-03 01:12:00,8,6,Skin rash and itching,Tuesday,1,Low,20
+2025-06-02 22:33:00,2,3,Minor cuts and bruises,Monday,22,Low,16
+2025-06-22 07:54:00,16,9,Minor cuts and bruises,Sunday,7,Low,27
+2025-06-15 04:32:00,2,5,Mild headache and nausea,Sunday,4,Low,14
+2025-06-22 00:35:00,15,3,Difficulty breathing,Sunday,0,Low,46
+2025-06-10 19:51:00,3,1,Vomiting and dehydration,Tuesday,19,Low,22
+2025-06-19 08:32:00,17,6,Mild headache and nausea,Thursday,8,Low,49
+2025-06-01 04:42:00,16,2,Skin rash and itching,Sunday,4,Low,46
+2025-06-17 09:43:00,6,3,Mild headache and nausea,Tuesday,9,Low,21
+2025-06-25 10:50:00,4,1,Severe abdominal pain,Wednesday,10,Medium,28
+2025-06-22 22:17:00,11,9,Broken ankle after fall,Sunday,22,Low,16
+2025-06-21 11:44:00,16,8,Difficulty breathing,Saturday,11,Low,38
+2025-06-13 06:10:00,12,2,Blurry vision and dizziness,Friday,6,Low,34
+2025-06-28 01:15:00,2,8,Blurry vision and dizziness,Saturday,1,Low,5
+2025-06-28 07:42:00,8,9,Difficulty breathing,Saturday,7,Low,20
+2025-06-10 05:59:00,16,1,Skin rash and itching,Tuesday,5,Low,46
+2025-06-22 04:28:00,16,5,Severe abdominal pain,Sunday,4,Medium,38
+2025-06-30 14:32:00,19,8,Severe abdominal pain,Monday,14,Medium,35
+2025-06-17 19:51:00,15,2,Patient reports chest pain and shortness of breath,Tuesday,19,High,55
+2025-06-23 19:46:00,12,4,Broken ankle after fall,Monday,19,Low,29
+2025-06-29 21:25:00,18,7,Minor cuts and bruises,Sunday,21,Low,39
+2025-06-15 13:25:00,16,3,High fever and chills,Sunday,13,Medium,42
+2025-06-29 18:28:00,3,5,Skin rash and itching,Sunday,18,Low,10
+2025-06-08 15:20:00,11,8,High fever and chills,Sunday,15,Medium,31
+2025-06-12 01:14:00,8,3,High fever and chills,Thursday,1,Medium,35
+2025-06-19 07:42:00,18,4,Difficulty breathing,Thursday,7,Low,44
+2025-06-22 10:54:00,11,9,Blurry vision and dizziness,Sunday,10,Low,21
+2025-06-18 08:49:00,8,7,Blurry vision and dizziness,Wednesday,8,Low,16
+2025-06-14 06:23:00,6,1,Minor cuts and bruises,Saturday,6,Low,29
+2025-06-23 04:36:00,13,4,Difficulty breathing,Monday,4,Low,37
+2025-06-24 00:24:00,19,4,High fever and chills,Tuesday,0,Medium,50
+2025-06-22 06:38:00,18,9,Vomiting and dehydration,Sunday,6,Low,40
+2025-06-15 22:40:00,14,6,Blurry vision and dizziness,Sunday,22,Low,24
+2025-06-16 16:14:00,15,9,Skin rash and itching,Monday,16,Low,35
+2025-06-21 18:38:00,4,6,Skin rash and itching,Saturday,18,Low,11
+2025-06-14 00:14:00,2,6,Patient reports chest pain and shortness of breath,Saturday,0,High,26
+2025-06-01 13:16:00,11,5,Mild headache and nausea,Sunday,13,Low,32
+2025-06-26 02:59:00,19,5,Vomiting and dehydration,Thursday,2,Low,52
+2025-06-24 09:29:00,3,2,Blurry vision and dizziness,Tuesday,9,Low,20
+2025-06-08 11:01:00,15,8,Severe abdominal pain,Sunday,11,Medium,38
+2025-06-11 21:20:00,6,8,Blurry vision and dizziness,Wednesday,21,Low,13
+2025-06-20 10:21:00,12,1,Patient reports chest pain and shortness of breath,Friday,10,High,59
+2025-06-13 09:23:00,9,8,Skin rash and itching,Friday,9,Low,21
+2025-06-20 07:33:00,6,5,High fever and chills,Friday,7,Medium,26
+2025-06-05 06:10:00,13,2,Severe abdominal pain,Thursday,6,Medium,45
+2025-06-27 03:23:00,4,2,Difficulty breathing,Friday,3,Low,23
+2025-06-08 17:32:00,2,6,Broken ankle after fall,Sunday,17,Low,8
+2025-06-02 16:24:00,10,9,High fever and chills,Monday,16,Medium,20
+2025-06-20 00:00:00,10,1,Broken ankle after fall,Friday,0,Low,42
+2025-06-25 04:12:00,17,6,Vomiting and dehydration,Wednesday,4,Low,43
+2025-06-28 05:18:00,14,9,Mild headache and nausea,Saturday,5,Low,30
+2025-06-07 23:51:00,11,8,Severe abdominal pain,Saturday,23,Medium,21
+2025-06-20 08:55:00,8,6,Minor cuts and bruises,Friday,8,Low,22
+2025-06-12 10:02:00,9,3,Severe abdominal pain,Thursday,10,Medium,37
+2025-06-16 05:37:00,11,8,Blurry vision and dizziness,Monday,5,Low,24
+2025-06-06 20:40:00,16,9,Skin rash and itching,Friday,20,Low,29
+2025-06-23 23:09:00,5,1,Blurry vision and dizziness,Monday,23,Low,26
+2025-06-23 01:49:00,6,9,Blurry vision and dizziness,Monday,1,Low,13
+2025-06-23 20:23:00,13,6,Vomiting and dehydration,Monday,20,Low,32
+2025-06-28 16:51:00,12,6,High fever and chills,Saturday,16,Medium,30
+2025-06-13 20:00:00,7,4,Minor cuts and bruises,Friday,20,Low,21
+2025-06-17 14:50:00,9,1,Minor cuts and bruises,Tuesday,14,Low,39
+2025-06-09 03:39:00,8,8,Blurry vision and dizziness,Monday,3,Low,16
+2025-06-06 02:03:00,17,2,Broken ankle after fall,Friday,2,Low,57
+2025-06-23 16:37:00,1,1,Vomiting and dehydration,Monday,16,Low,19
+2025-06-06 13:22:00,4,2,Blurry vision and dizziness,Friday,13,Low,22
+2025-06-10 00:54:00,4,1,Mild headache and nausea,Tuesday,0,Low,24
+2025-06-21 01:01:00,5,1,Skin rash and itching,Saturday,1,Low,25
+2025-06-21 09:45:00,18,9,High fever and chills,Saturday,9,Medium,29
+2025-06-28 00:51:00,7,1,Difficulty breathing,Saturday,0,Low,30
+2025-06-12 17:21:00,15,4,Mild headache and nausea,Thursday,17,Low,34
+2025-06-11 17:13:00,12,6,Broken ankle after fall,Wednesday,17,Low,29
+2025-06-04 07:10:00,0,7,Severe abdominal pain,Wednesday,7,Medium,4
+2025-06-01 17:54:00,19,2,Severe abdominal pain,Sunday,17,Medium,56
+2025-06-20 06:27:00,16,6,Mild headache and nausea,Friday,6,Low,44
+2025-06-10 18:34:00,6,7,Blurry vision and dizziness,Tuesday,18,Low,16
+2025-06-29 16:44:00,12,2,Difficulty breathing,Sunday,16,Low,36
+2025-06-26 22:02:00,3,2,Patient reports chest pain and shortness of breath,Thursday,22,High,36
+2025-06-04 20:37:00,3,7,Patient reports chest pain and shortness of breath,Wednesday,20,High,21
+2025-06-10 04:22:00,5,1,Broken ankle after fall,Tuesday,4,Low,26
+2025-06-04 10:07:00,18,8,Blurry vision and dizziness,Wednesday,10,Low,36
+2025-06-28 09:02:00,11,3,Minor cuts and bruises,Saturday,9,Low,30
+2025-06-02 21:27:00,6,6,Minor cuts and bruises,Monday,21,Low,14
+2025-06-02 10:18:00,9,9,High fever and chills,Monday,10,Medium,22
+2025-06-13 13:13:00,18,6,Difficulty breathing,Friday,13,Low,52
+2025-06-10 04:33:00,6,9,Difficulty breathing,Tuesday,4,Low,9
+2025-06-02 05:59:00,2,7,Severe abdominal pain,Monday,5,Medium,11
+2025-06-14 18:24:00,12,9,Vomiting and dehydration,Saturday,18,Low,20
+2025-06-09 20:52:00,12,2,Broken ankle after fall,Monday,20,Low,43
+2025-06-30 15:26:00,17,8,Patient reports chest pain and shortness of breath,Monday,15,High,49
+2025-06-24 06:08:00,19,8,Broken ankle after fall,Tuesday,6,Low,43
+2025-06-26 13:51:00,7,2,Minor cuts and bruises,Thursday,13,Low,32
+2025-06-25 04:05:00,8,4,Minor cuts and bruises,Wednesday,4,Low,24
+2025-06-20 09:50:00,6,7,Mild headache and nausea,Friday,9,Low,19
+2025-06-01 16:49:00,0,4,High fever and chills,Sunday,16,Medium,16
+2025-06-12 19:58:00,2,4,Difficulty breathing,Thursday,19,Low,13
+2025-06-27 14:10:00,12,6,Skin rash and itching,Friday,14,Low,26
+2025-06-17 04:40:00,16,6,Broken ankle after fall,Tuesday,4,Low,44
+2025-06-15 13:49:00,0,3,Minor cuts and bruises,Sunday,13,Low,12
+2025-06-23 03:32:00,5,9,Vomiting and dehydration,Monday,3,Low,3
+2025-06-28 02:58:00,5,2,Severe abdominal pain,Saturday,2,Medium,31
+2025-06-22 20:32:00,11,6,Patient reports chest pain and shortness of breath,Sunday,20,High,43
+2025-06-21 03:22:00,12,7,High fever and chills,Saturday,3,Medium,28
+2025-06-18 06:20:00,12,9,Vomiting and dehydration,Wednesday,6,Low,21
+2025-06-13 10:48:00,14,3,High fever and chills,Friday,10,Medium,40
+2025-06-04 10:12:00,15,3,Mild headache and nausea,Wednesday,10,Low,42
+2025-06-24 09:27:00,10,7,Skin rash and itching,Tuesday,9,Low,17
+2025-06-24 14:46:00,4,4,Minor cuts and bruises,Tuesday,14,Low,20
+2025-06-04 14:37:00,3,8,Severe abdominal pain,Wednesday,14,Medium,11
+2025-06-01 13:34:00,2,7,Vomiting and dehydration,Sunday,13,Low,8
+2025-06-30 23:04:00,18,5,High fever and chills,Monday,23,Medium,52
+2025-06-03 08:04:00,19,7,Difficulty breathing,Tuesday,8,Low,44
+2025-06-05 21:31:00,17,3,Mild headache and nausea,Thursday,21,Low,49
+2025-06-24 08:04:00,14,2,Difficulty breathing,Tuesday,8,Low,37
+2025-06-29 03:26:00,8,6,Severe abdominal pain,Sunday,3,Medium,28
+2025-06-26 18:39:00,16,2,Vomiting and dehydration,Thursday,18,Low,41
+2025-06-26 16:11:00,13,3,Mild headache and nausea,Thursday,16,Low,44
+2025-06-10 06:50:00,14,6,Vomiting and dehydration,Tuesday,6,Low,28
+2025-06-26 00:44:00,0,5,Minor cuts and bruises,Thursday,0,Low,6
+2025-06-02 18:23:00,2,8,Blurry vision and dizziness,Monday,18,Low,2
+2025-06-20 23:44:00,15,9,Mild headache and nausea,Friday,23,Low,24
+2025-06-22 02:40:00,10,3,Difficulty breathing,Sunday,2,Low,28
+2025-06-19 10:56:00,11,3,Severe abdominal pain,Thursday,10,Medium,40
+2025-06-13 22:20:00,9,3,Skin rash and itching,Friday,22,Low,33
+2025-06-26 23:35:00,15,6,Minor cuts and bruises,Thursday,23,Low,39
+2025-06-29 20:27:00,7,1,Blurry vision and dizziness,Sunday,20,Low,31
+2025-06-29 10:58:00,5,7,Skin rash and itching,Sunday,10,Low,9
+2025-06-28 12:31:00,11,1,Patient reports chest pain and shortness of breath,Saturday,12,High,54
+2025-06-08 14:52:00,7,5,Minor cuts and bruises,Sunday,14,Low,24
+2025-06-14 14:25:00,3,8,Severe abdominal pain,Saturday,14,Medium,8
+2025-06-01 21:17:00,7,4,High fever and chills,Sunday,21,Medium,27
+2025-06-29 15:29:00,17,5,Mild headache and nausea,Sunday,15,Low,35
+2025-06-01 09:39:00,4,4,Vomiting and dehydration,Sunday,9,Low,17
+2025-06-15 14:21:00,8,4,Severe abdominal pain,Sunday,14,Medium,30
+2025-06-10 09:57:00,3,8,Mild headache and nausea,Tuesday,9,Low,5
+2025-06-15 17:00:00,16,2,Skin rash and itching,Sunday,17,Low,46
+2025-06-08 14:50:00,8,1,Vomiting and dehydration,Sunday,14,Low,34
+2025-06-22 10:14:00,0,3,Broken ankle after fall,Sunday,10,Low,12
+2025-06-19 04:53:00,19,9,Difficulty breathing,Thursday,4,Low,39
+2025-06-02 18:47:00,12,4,Patient reports chest pain and shortness of breath,Monday,18,High,43
+2025-06-13 11:54:00,15,5,Minor cuts and bruises,Friday,11,Low,40
+2025-06-07 03:12:00,12,2,Severe abdominal pain,Saturday,3,Medium,45
+2025-06-08 06:01:00,13,4,Patient reports chest pain and shortness of breath,Sunday,6,High,50
+2025-06-25 09:18:00,2,2,High fever and chills,Wednesday,9,Medium,22
+2025-06-27 22:51:00,5,2,Mild headache and nausea,Friday,22,Low,26
+2025-06-24 19:38:00,17,4,Mild headache and nausea,Tuesday,19,Low,43
+2025-06-03 04:32:00,18,6,Severe abdominal pain,Tuesday,4,Medium,52
+2025-06-14 15:59:00,4,7,Blurry vision and dizziness,Saturday,15,Low,13
+2025-06-30 22:31:00,14,3,Blurry vision and dizziness,Monday,22,Low,45
+2025-06-18 19:21:00,1,3,Broken ankle after fall,Wednesday,19,Low,15
+2025-06-23 10:26:00,9,6,Difficulty breathing,Monday,10,Low,24
+2025-06-03 00:44:00,17,3,Vomiting and dehydration,Tuesday,0,Low,48
+2025-06-28 01:13:00,12,2,High fever and chills,Saturday,1,Medium,47
+2025-06-24 09:55:00,4,8,Patient reports chest pain and shortness of breath,Tuesday,9,High,25
+2025-06-05 15:21:00,0,5,Blurry vision and dizziness,Thursday,15,Low,6
+2025-06-13 07:03:00,0,1,Broken ankle after fall,Friday,7,Low,17
+2025-06-29 01:37:00,17,3,Broken ankle after fall,Sunday,1,Low,49
+2025-06-10 11:10:00,14,8,Severe abdominal pain,Tuesday,11,Medium,30
+2025-06-28 19:33:00,16,4,High fever and chills,Saturday,19,Medium,52
+2025-06-04 10:19:00,10,7,Skin rash and itching,Wednesday,10,Low,17
+2025-06-14 11:35:00,16,2,Vomiting and dehydration,Saturday,11,Low,51
+2025-06-06 19:53:00,12,7,Difficulty breathing,Friday,19,Low,30
+2025-06-29 16:11:00,0,5,Minor cuts and bruises,Sunday,16,Low,6
+2025-06-14 09:48:00,1,5,Severe abdominal pain,Saturday,9,Medium,12
+2025-06-07 13:30:00,8,6,Vomiting and dehydration,Saturday,13,Low,21
+2025-06-07 07:31:00,2,9,Minor cuts and bruises,Saturday,7,Low,0
+2025-06-02 21:27:00,0,6,Minor cuts and bruises,Monday,21,Low,4
+2025-06-03 14:06:00,15,8,High fever and chills,Tuesday,14,Medium,38
+2025-06-18 02:05:00,5,7,High fever and chills,Wednesday,2,Medium,21
+2025-06-30 09:45:00,16,9,Patient reports chest pain and shortness of breath,Monday,9,High,48
+2025-06-15 21:57:00,4,4,Broken ankle after fall,Sunday,21,Low,16
+2025-06-15 07:26:00,4,2,Vomiting and dehydration,Sunday,7,Low,22
+2025-06-16 10:24:00,5,7,Severe abdominal pain,Monday,10,Medium,21
+2025-06-04 16:33:00,2,6,Mild headache and nausea,Wednesday,16,Low,6
+2025-06-29 22:01:00,4,1,Severe abdominal pain,Sunday,22,Medium,31
+2025-06-30 03:44:00,4,9,Patient reports chest pain and shortness of breath,Monday,3,High,21
+2025-06-05 14:08:00,9,9,Difficulty breathing,Thursday,14,Low,11
+2025-06-21 01:50:00,9,2,Broken ankle after fall,Saturday,1,Low,27
+2025-06-14 01:25:00,18,3,Mild headache and nausea,Saturday,1,Low,40
+2025-06-01 22:35:00,16,5,Blurry vision and dizziness,Sunday,22,Low,44
+2025-06-09 10:28:00,13,5,Difficulty breathing,Monday,10,Low,29
+2025-06-02 18:44:00,8,1,High fever and chills,Monday,18,Medium,37
+2025-06-08 15:27:00,13,8,Minor cuts and bruises,Sunday,15,Low,23
+2025-06-23 15:35:00,0,8,Blurry vision and dizziness,Monday,15,Low,0
+2025-06-12 07:11:00,18,4,Severe abdominal pain,Thursday,7,Medium,52
+2025-06-07 03:30:00,12,7,Severe abdominal pain,Saturday,3,Medium,29
+2025-06-13 18:42:00,12,3,High fever and chills,Friday,18,Medium,40
+2025-06-15 22:33:00,3,6,Patient reports chest pain and shortness of breath,Sunday,22,High,25
+2025-06-01 04:34:00,0,9,Vomiting and dehydration,Sunday,4,Low,1
+2025-06-21 17:48:00,16,1,Blurry vision and dizziness,Saturday,17,Low,48
+2025-06-19 21:09:00,7,5,Blurry vision and dizziness,Thursday,21,Low,20
+2025-06-05 04:33:00,1,4,Skin rash and itching,Thursday,4,Low,13
+2025-06-13 17:18:00,7,8,Difficulty breathing,Friday,17,Low,13
+2025-06-25 10:19:00,6,1,Broken ankle after fall,Wednesday,10,Low,30
+2025-06-14 03:53:00,1,9,Difficulty breathing,Saturday,3,Low,0
+2025-06-27 12:08:00,2,6,Vomiting and dehydration,Friday,12,Low,7
+2025-06-01 02:45:00,17,4,Severe abdominal pain,Sunday,2,Medium,44
+2025-06-07 15:16:00,11,9,Severe abdominal pain,Saturday,15,Medium,30
+2025-06-10 17:10:00,0,5,Severe abdominal pain,Tuesday,17,Medium,14
+2025-06-09 06:28:00,11,5,Skin rash and itching,Monday,6,Low,24
+2025-06-23 01:09:00,4,5,Severe abdominal pain,Monday,1,Medium,19
+2025-06-23 18:42:00,16,1,Vomiting and dehydration,Monday,18,Low,46
+2025-06-07 11:08:00,15,1,High fever and chills,Saturday,11,Medium,57
+2025-06-05 10:05:00,14,8,Broken ankle after fall,Thursday,10,Low,35
+2025-06-18 14:19:00,14,8,Vomiting and dehydration,Wednesday,14,Low,29
+2025-06-04 01:12:00,4,6,Broken ankle after fall,Wednesday,1,Low,10
+2025-06-15 14:31:00,13,4,Vomiting and dehydration,Sunday,14,Low,40
+2025-06-01 00:18:00,1,2,Severe abdominal pain,Sunday,0,Medium,22
+2025-06-10 08:24:00,10,2,High fever and chills,Tuesday,8,Medium,42
+2025-06-27 06:22:00,18,9,Blurry vision and dizziness,Friday,6,Low,40
+2025-06-30 15:01:00,6,5,Difficulty breathing,Monday,15,Low,22
+2025-06-14 01:19:00,5,4,Minor cuts and bruises,Saturday,1,Low,19
+2025-06-11 14:56:00,1,1,High fever and chills,Wednesday,14,Medium,24
+2025-06-08 23:21:00,5,7,Blurry vision and dizziness,Sunday,23,Low,13
+2025-06-16 11:29:00,17,3,Patient reports chest pain and shortness of breath,Monday,11,High,65
+2025-06-21 17:29:00,1,6,Vomiting and dehydration,Saturday,17,Low,4
+2025-06-02 22:53:00,17,5,Patient reports chest pain and shortness of breath,Monday,22,High,54
+2025-06-06 12:18:00,14,5,Blurry vision and dizziness,Friday,12,Low,37
+2025-06-22 10:47:00,18,5,High fever and chills,Sunday,10,Medium,50
+2025-06-18 00:58:00,1,1,Vomiting and dehydration,Wednesday,0,Low,18
+2025-06-24 14:40:00,19,1,Minor cuts and bruises,Tuesday,14,Low,57
+2025-06-11 06:24:00,5,3,Severe abdominal pain,Wednesday,6,Medium,26
+2025-06-08 16:03:00,0,4,Vomiting and dehydration,Sunday,16,Low,8
+2025-06-23 07:23:00,14,5,Vomiting and dehydration,Monday,7,Low,30
+2025-06-26 00:09:00,9,2,High fever and chills,Thursday,0,Medium,35
+2025-06-15 04:35:00,18,8,High fever and chills,Sunday,4,Medium,37
+2025-06-30 15:59:00,16,2,Blurry vision and dizziness,Monday,15,Low,51
+2025-06-10 01:18:00,4,9,Mild headache and nausea,Tuesday,1,Low,7
+2025-06-24 09:28:00,3,2,Vomiting and dehydration,Tuesday,9,Low,20
+2025-06-07 11:38:00,9,9,Difficulty breathing,Saturday,11,Low,15
+2025-06-28 09:50:00,16,7,Vomiting and dehydration,Saturday,9,Low,28
+2025-06-25 17:04:00,9,8,Blurry vision and dizziness,Wednesday,17,Low,21
+2025-06-01 16:24:00,16,2,Broken ankle after fall,Sunday,16,Low,52
+2025-06-10 15:25:00,19,7,Patient reports chest pain and shortness of breath,Tuesday,15,High,61
+2025-06-29 14:24:00,4,6,Severe abdominal pain,Sunday,14,Medium,19
+2025-06-23 21:16:00,1,4,Mild headache and nausea,Monday,21,Low,12
+2025-06-16 03:56:00,5,7,Minor cuts and bruises,Monday,3,Low,14
+2025-06-03 01:05:00,1,4,Minor cuts and bruises,Tuesday,1,Low,12
+2025-06-21 16:21:00,12,2,Minor cuts and bruises,Saturday,16,Low,42
+2025-06-27 09:53:00,10,7,High fever and chills,Friday,9,Medium,20
+2025-06-14 13:55:00,10,8,Minor cuts and bruises,Saturday,13,Low,23
+2025-06-20 14:05:00,15,2,Severe abdominal pain,Friday,14,Medium,48
+2025-06-17 22:12:00,10,5,Patient reports chest pain and shortness of breath,Tuesday,22,High,43
+2025-06-27 14:26:00,18,1,Minor cuts and bruises,Friday,14,Low,48
+2025-06-19 09:29:00,14,7,Vomiting and dehydration,Thursday,9,Low,32
+2025-06-12 15:54:00,15,8,Vomiting and dehydration,Thursday,15,Low,26
+2025-06-28 09:22:00,10,6,High fever and chills,Saturday,9,Medium,33
+2025-06-28 04:57:00,15,5,Severe abdominal pain,Saturday,4,Medium,48
+2025-06-11 01:09:00,7,6,Patient reports chest pain and shortness of breath,Wednesday,1,High,30
+2025-06-17 18:40:00,3,2,Mild headache and nausea,Tuesday,18,Low,22
+2025-06-04 19:33:00,7,1,Blurry vision and dizziness,Wednesday,19,Low,33
+2025-06-05 19:40:00,3,7,Patient reports chest pain and shortness of breath,Thursday,19,High,26
+2025-06-10 09:31:00,2,7,Blurry vision and dizziness,Tuesday,9,Low,4
+2025-06-19 18:57:00,2,2,Broken ankle after fall,Thursday,18,Low,18
+2025-06-03 14:25:00,17,2,Blurry vision and dizziness,Tuesday,14,Low,43
+2025-06-04 10:48:00,18,1,Difficulty breathing,Wednesday,10,Low,50
+2025-06-05 13:21:00,18,8,Vomiting and dehydration,Thursday,13,Low,43
+2025-06-13 13:03:00,4,8,Severe abdominal pain,Friday,13,Medium,8
+2025-06-15 03:38:00,17,1,Skin rash and itching,Sunday,3,Low,57
+2025-06-26 05:08:00,9,8,High fever and chills,Thursday,5,Medium,23
+2025-06-02 11:06:00,5,9,Difficulty breathing,Monday,11,Low,7
+2025-06-13 05:22:00,0,4,Blurry vision and dizziness,Friday,5,Low,9
+2025-06-08 03:28:00,4,1,Minor cuts and bruises,Sunday,3,Low,27
+2025-06-11 19:16:00,8,1,Severe abdominal pain,Wednesday,19,Medium,37
+2025-06-04 06:06:00,11,3,Difficulty breathing,Wednesday,6,Low,34
+2025-06-06 02:43:00,13,5,High fever and chills,Friday,2,Medium,36
+2025-06-08 10:33:00,1,5,Vomiting and dehydration,Sunday,10,Low,8
+2025-06-19 10:39:00,16,9,Severe abdominal pain,Thursday,10,Medium,28
+2025-06-25 15:04:00,13,2,High fever and chills,Wednesday,15,Medium,44
+2025-06-30 17:06:00,12,2,Broken ankle after fall,Monday,17,Low,37
+2025-06-06 12:26:00,8,6,Broken ankle after fall,Friday,12,Low,25
+2025-06-18 02:36:00,14,9,High fever and chills,Wednesday,2,Medium,32
+2025-06-21 21:54:00,14,1,Difficulty breathing,Saturday,21,Low,45
+2025-06-08 17:42:00,10,9,Severe abdominal pain,Sunday,17,Medium,17
+2025-06-02 19:57:00,15,9,Difficulty breathing,Monday,19,Low,30
+2025-06-11 02:20:00,16,9,Mild headache and nausea,Wednesday,2,Low,37
+2025-06-03 06:22:00,3,5,Blurry vision and dizziness,Tuesday,6,Low,14
+2025-06-08 16:53:00,0,9,Mild headache and nausea,Sunday,16,Low,0
+2025-06-19 12:45:00,7,4,Broken ankle after fall,Thursday,12,Low,21
+2025-06-07 18:29:00,16,2,Vomiting and dehydration,Saturday,18,Low,48
+2025-06-09 09:54:00,2,6,Patient reports chest pain and shortness of breath,Monday,9,High,20
+2025-06-17 17:49:00,19,4,Blurry vision and dizziness,Tuesday,17,Low,46
+2025-06-11 07:09:00,14,6,Broken ankle after fall,Wednesday,7,Low,38
+2025-06-06 16:47:00,14,3,Difficulty breathing,Friday,16,Low,44
+2025-06-29 20:29:00,13,6,Difficulty breathing,Sunday,20,Low,28
+2025-06-21 23:45:00,13,2,Difficulty breathing,Saturday,23,Low,41
+2025-06-20 23:15:00,1,2,Vomiting and dehydration,Friday,23,Low,16
+2025-06-08 09:12:00,12,9,Mild headache and nausea,Sunday,9,Low,15
+2025-06-19 09:24:00,13,7,Patient reports chest pain and shortness of breath,Thursday,9,High,37
+2025-06-12 07:02:00,18,3,Difficulty breathing,Thursday,7,Low,45
+2025-06-09 05:05:00,6,1,Skin rash and itching,Monday,5,Low,27
+2025-06-08 02:34:00,2,8,Blurry vision and dizziness,Sunday,2,Low,3
+2025-06-09 15:58:00,14,6,Severe abdominal pain,Monday,15,Medium,33
+2025-06-08 18:15:00,13,7,Skin rash and itching,Sunday,18,Low,23
+2025-06-08 15:05:00,10,9,Patient reports chest pain and shortness of breath,Sunday,15,High,30
+2025-06-17 11:51:00,14,5,Vomiting and dehydration,Tuesday,11,Low,34
+2025-06-21 09:33:00,12,1,Patient reports chest pain and shortness of breath,Saturday,9,High,62
+2025-06-09 12:59:00,17,7,Severe abdominal pain,Monday,12,Medium,36
+2025-06-30 17:09:00,5,5,Blurry vision and dizziness,Monday,17,Low,18
+2025-06-18 10:50:00,2,3,Severe abdominal pain,Wednesday,10,Medium,20
+2025-06-04 09:35:00,18,9,High fever and chills,Wednesday,9,Medium,40
+2025-06-22 08:59:00,14,1,Blurry vision and dizziness,Sunday,8,Low,44
+2025-06-08 07:42:00,4,1,Patient reports chest pain and shortness of breath,Sunday,7,High,41
+2025-06-05 13:49:00,9,1,Difficulty breathing,Thursday,13,Low,32
+2025-06-22 08:21:00,6,3,Patient reports chest pain and shortness of breath,Sunday,8,High,37
+2025-06-24 09:41:00,16,6,Patient reports chest pain and shortness of breath,Tuesday,9,High,53
+2025-06-06 13:35:00,6,3,Blurry vision and dizziness,Friday,13,Low,24
+2025-06-20 17:47:00,11,8,High fever and chills,Friday,17,Medium,22
+2025-06-24 10:54:00,16,2,Patient reports chest pain and shortness of breath,Tuesday,10,High,68
+2025-06-28 17:33:00,12,9,Skin rash and itching,Saturday,17,Low,24
+2025-06-20 15:37:00,19,3,Broken ankle after fall,Friday,15,Low,51
+2025-06-06 23:46:00,3,5,Minor cuts and bruises,Friday,23,Low,16
+2025-06-30 01:28:00,9,8,Minor cuts and bruises,Monday,1,Low,20
+2025-06-27 09:05:00,2,2,Patient reports chest pain and shortness of breath,Friday,9,High,34
+2025-06-09 04:43:00,8,6,Skin rash and itching,Monday,4,Low,23
+2025-06-03 16:19:00,12,5,Difficulty breathing,Tuesday,16,Low,28
+2025-06-01 18:34:00,17,9,Vomiting and dehydration,Sunday,18,Low,32
+2025-06-10 22:06:00,14,5,Vomiting and dehydration,Tuesday,22,Low,36
+2025-06-14 21:35:00,3,2,Blurry vision and dizziness,Saturday,21,Low,21
+2025-06-21 22:32:00,14,5,Minor cuts and bruises,Saturday,22,Low,39
+2025-06-14 06:55:00,1,4,Patient reports chest pain and shortness of breath,Saturday,6,High,29
+2025-06-23 18:48:00,14,7,Vomiting and dehydration,Monday,18,Low,31
+2025-06-16 05:01:00,7,6,Patient reports chest pain and shortness of breath,Monday,5,High,35
+2025-06-28 07:39:00,7,2,Blurry vision and dizziness,Saturday,7,Low,30
+2025-06-09 10:34:00,16,5,Minor cuts and bruises,Monday,10,Low,38
+2025-06-24 09:25:00,11,7,Severe abdominal pain,Tuesday,9,Medium,34
+2025-06-11 03:31:00,18,7,Broken ankle after fall,Wednesday,3,Low,34
+2025-06-10 09:35:00,9,5,Broken ankle after fall,Tuesday,9,Low,26
+2025-06-02 16:03:00,8,9,Vomiting and dehydration,Monday,16,Low,19
+2025-06-28 04:03:00,4,4,Broken ankle after fall,Saturday,4,Low,20
+2025-06-19 20:50:00,5,3,Severe abdominal pain,Thursday,20,Medium,29
+2025-06-20 22:23:00,19,4,Patient reports chest pain and shortness of breath,Friday,22,High,68
+2025-06-10 23:07:00,1,5,Blurry vision and dizziness,Tuesday,23,Low,9
+2025-06-27 06:24:00,12,6,Severe abdominal pain,Friday,6,Medium,40
+2025-06-17 00:17:00,5,3,Blurry vision and dizziness,Tuesday,0,Low,19
+2025-06-12 18:24:00,4,2,Blurry vision and dizziness,Thursday,18,Low,21
+2025-06-18 05:54:00,0,4,Minor cuts and bruises,Wednesday,5,Low,11
+2025-06-14 00:52:00,5,5,Patient reports chest pain and shortness of breath,Saturday,0,High,31
+2025-06-12 19:20:00,5,4,Skin rash and itching,Thursday,19,Low,21
+2025-06-08 10:16:00,15,3,Broken ankle after fall,Sunday,10,Low,46
+2025-06-08 03:25:00,3,8,Skin rash and itching,Sunday,3,Low,4
+2025-06-27 19:32:00,10,4,Minor cuts and bruises,Friday,19,Low,30
+2025-06-11 10:39:00,8,2,Blurry vision and dizziness,Wednesday,10,Low,28
+2025-06-23 20:45:00,2,2,Vomiting and dehydration,Monday,20,Low,19
+2025-06-02 07:00:00,18,1,Broken ankle after fall,Monday,7,Low,56
+2025-06-20 12:24:00,7,4,Broken ankle after fall,Friday,12,Low,22
+2025-06-05 00:00:00,4,9,Patient reports chest pain and shortness of breath,Thursday,0,High,21
+2025-06-28 08:39:00,3,7,High fever and chills,Saturday,8,Medium,14
+2025-06-08 09:56:00,5,7,Mild headache and nausea,Sunday,9,Low,10
+2025-06-29 14:13:00,1,7,Mild headache and nausea,Sunday,14,Low,3
+2025-06-06 07:55:00,19,8,Mild headache and nausea,Friday,7,Low,31
+2025-06-03 09:28:00,10,1,High fever and chills,Tuesday,9,Medium,45
+2025-06-09 21:50:00,3,8,Patient reports chest pain and shortness of breath,Monday,21,High,24
+2025-06-01 17:01:00,14,4,High fever and chills,Sunday,17,Medium,42
+2025-06-04 22:35:00,5,4,Mild headache and nausea,Wednesday,22,Low,22
+2025-06-15 22:51:00,16,4,Minor cuts and bruises,Sunday,22,Low,39
+2025-06-22 06:53:00,5,6,Severe abdominal pain,Sunday,6,Medium,20
+2025-06-28 06:59:00,18,7,Blurry vision and dizziness,Saturday,6,Low,46
+2025-06-07 17:26:00,1,6,High fever and chills,Saturday,17,Medium,11
+2025-06-06 13:04:00,14,1,Patient reports chest pain and shortness of breath,Friday,13,High,66
+2025-06-21 10:11:00,10,8,Patient reports chest pain and shortness of breath,Saturday,10,High,30
+2025-06-24 02:51:00,7,7,Skin rash and itching,Tuesday,2,Low,16
+2025-06-04 11:50:00,18,6,Severe abdominal pain,Wednesday,11,Medium,40
+2025-06-01 09:35:00,12,6,Vomiting and dehydration,Sunday,9,Low,32
+2025-06-09 10:49:00,11,5,Broken ankle after fall,Monday,10,Low,29
+2025-06-28 09:16:00,4,6,Mild headache and nausea,Saturday,9,Low,11
+2025-06-27 16:01:00,5,9,Vomiting and dehydration,Friday,16,Low,8
+2025-06-25 14:04:00,3,9,Skin rash and itching,Wednesday,14,Low,4
+2025-06-12 01:19:00,18,8,Mild headache and nausea,Thursday,1,Low,30
+2025-06-12 23:16:00,19,9,Severe abdominal pain,Thursday,23,Medium,36
+2025-06-23 15:16:00,0,8,Skin rash and itching,Monday,15,Low,1
+2025-06-29 10:20:00,19,8,Mild headache and nausea,Sunday,10,Low,31
+2025-06-23 17:17:00,16,1,Severe abdominal pain,Monday,17,Medium,59
+2025-06-28 23:52:00,11,5,Difficulty breathing,Saturday,23,Low,33
+2025-06-25 21:56:00,14,4,Vomiting and dehydration,Wednesday,21,Low,35
+2025-06-24 13:47:00,0,2,Vomiting and dehydration,Tuesday,13,Low,14
+2025-06-05 15:28:00,13,8,Broken ankle after fall,Thursday,15,Low,20
+2025-06-26 03:59:00,5,3,Severe abdominal pain,Thursday,3,Medium,25
+2025-06-21 06:16:00,4,4,High fever and chills,Saturday,6,Medium,19
+2025-06-16 19:10:00,10,7,Difficulty breathing,Monday,19,Low,26
+2025-06-09 15:45:00,3,9,Minor cuts and bruises,Monday,15,Low,0
+2025-06-28 04:16:00,12,2,Mild headache and nausea,Saturday,4,Low,40
+2025-06-01 16:08:00,10,3,Difficulty breathing,Sunday,16,Low,31
+2025-06-20 18:25:00,2,4,Severe abdominal pain,Friday,18,Medium,18
+2025-06-13 00:48:00,0,1,Blurry vision and dizziness,Friday,0,Low,17
+2025-06-03 04:09:00,5,7,Mild headache and nausea,Tuesday,4,Low,11
+2025-06-10 01:42:00,17,2,Patient reports chest pain and shortness of breath,Tuesday,1,High,56
+2025-06-29 10:00:00,9,5,Vomiting and dehydration,Sunday,10,Low,24
+2025-06-29 22:09:00,4,1,Severe abdominal pain,Sunday,22,Medium,31
+2025-06-12 04:47:00,9,3,Patient reports chest pain and shortness of breath,Thursday,4,High,44
+2025-06-03 13:42:00,11,2,Broken ankle after fall,Tuesday,13,Low,38
+2025-06-04 03:19:00,1,1,Skin rash and itching,Wednesday,3,Low,19
+2025-06-27 13:15:00,12,7,Minor cuts and bruises,Friday,13,Low,27
+2025-06-24 03:18:00,7,5,Minor cuts and bruises,Tuesday,3,Low,20
+2025-06-18 23:42:00,1,1,Patient reports chest pain and shortness of breath,Wednesday,23,High,34
+2025-06-01 03:54:00,19,6,Vomiting and dehydration,Sunday,3,Low,45
+2025-06-09 17:38:00,0,5,Broken ankle after fall,Monday,17,Low,6
+2025-06-28 18:14:00,4,3,Blurry vision and dizziness,Saturday,18,Low,20
+2025-06-17 14:53:00,8,7,Vomiting and dehydration,Tuesday,14,Low,18
+2025-06-24 14:23:00,16,9,Difficulty breathing,Tuesday,14,Low,32
+2025-06-15 00:12:00,8,9,Minor cuts and bruises,Sunday,0,Low,16
+2025-06-30 11:08:00,10,9,Difficulty breathing,Monday,11,Low,18
+2025-06-11 04:59:00,14,2,Mild headache and nausea,Wednesday,4,Low,42
+2025-06-15 11:53:00,5,3,High fever and chills,Sunday,11,Medium,28
+2025-06-20 19:46:00,2,7,Severe abdominal pain,Friday,19,Medium,14
+2025-06-12 15:10:00,16,5,Broken ankle after fall,Thursday,15,Low,42
+2025-06-22 15:23:00,4,2,Vomiting and dehydration,Sunday,15,Low,20
+2025-06-09 16:15:00,11,3,Minor cuts and bruises,Monday,16,Low,35
+2025-06-22 13:00:00,17,6,Difficulty breathing,Sunday,13,Low,45
+2025-06-07 10:54:00,13,7,Skin rash and itching,Saturday,10,Low,36
+2025-06-18 03:20:00,10,9,Mild headache and nausea,Wednesday,3,Low,22
+2025-06-17 07:57:00,8,1,Severe abdominal pain,Tuesday,7,Medium,40
+2025-06-12 07:12:00,1,7,Severe abdominal pain,Thursday,7,Medium,11
+2025-06-25 02:07:00,11,8,Vomiting and dehydration,Wednesday,2,Low,23
+2025-06-09 03:22:00,2,3,Broken ankle after fall,Monday,3,Low,17
+2025-06-29 16:16:00,2,4,Blurry vision and dizziness,Sunday,16,Low,13
+2025-06-06 19:00:00,0,6,Skin rash and itching,Friday,19,Low,7
+2025-06-11 00:48:00,7,7,Vomiting and dehydration,Wednesday,0,Low,17
+2025-06-06 12:53:00,7,4,Difficulty breathing,Friday,12,Low,22
+2025-06-08 11:09:00,10,8,High fever and chills,Sunday,11,Medium,23
+2025-06-20 23:23:00,8,5,Patient reports chest pain and shortness of breath,Friday,23,High,39
+2025-06-05 19:42:00,4,1,Blurry vision and dizziness,Thursday,19,Low,25
+2025-06-28 07:21:00,13,4,Broken ankle after fall,Saturday,7,Low,39
+2025-06-26 02:02:00,2,3,Mild headache and nausea,Thursday,2,Low,16
+2025-06-17 23:52:00,4,9,Blurry vision and dizziness,Tuesday,23,Low,4
+2025-06-09 16:48:00,4,8,Minor cuts and bruises,Monday,16,Low,13
+2025-06-24 05:20:00,18,1,Broken ankle after fall,Tuesday,5,Low,53
+2025-06-19 07:26:00,13,6,High fever and chills,Thursday,7,Medium,31
+2025-06-22 13:34:00,3,9,Minor cuts and bruises,Sunday,13,Low,6
+2025-06-08 20:56:00,12,7,Blurry vision and dizziness,Sunday,20,Low,29
+2025-06-27 15:57:00,9,4,Patient reports chest pain and shortness of breath,Friday,15,High,39
+2025-06-23 09:13:00,17,1,Patient reports chest pain and shortness of breath,Monday,9,High,70
+2025-06-13 02:07:00,7,2,High fever and chills,Friday,2,Medium,35
+2025-06-28 06:59:00,7,5,Severe abdominal pain,Saturday,6,Medium,24
+2025-06-06 11:26:00,6,5,Skin rash and itching,Friday,11,Low,23
+2025-06-17 18:53:00,7,8,Mild headache and nausea,Tuesday,18,Low,18
+2025-06-02 03:17:00,13,6,Severe abdominal pain,Monday,3,Medium,39
+2025-06-30 08:01:00,18,8,Patient reports chest pain and shortness of breath,Monday,8,High,59
+2025-06-05 05:15:00,5,2,Patient reports chest pain and shortness of breath,Thursday,5,High,39
+2025-06-01 10:40:00,0,3,Difficulty breathing,Sunday,10,Low,12
+2025-06-10 13:06:00,14,6,Minor cuts and bruises,Tuesday,13,Low,32
+2025-06-10 19:17:00,0,3,Blurry vision and dizziness,Tuesday,19,Low,11
+2025-06-24 17:49:00,16,6,Mild headache and nausea,Tuesday,17,Low,37
+2025-06-10 05:08:00,0,6,High fever and chills,Tuesday,5,Medium,11
+2025-06-19 00:01:00,14,2,Blurry vision and dizziness,Thursday,0,Low,48
+2025-06-20 03:06:00,1,7,Difficulty breathing,Friday,3,Low,1
+2025-06-11 14:41:00,13,2,Patient reports chest pain and shortness of breath,Wednesday,14,High,60
+2025-06-30 01:58:00,7,6,High fever and chills,Monday,1,Medium,24
+2025-06-12 02:30:00,7,1,Patient reports chest pain and shortness of breath,Thursday,2,High,45
+2025-06-10 22:22:00,18,3,Mild headache and nausea,Tuesday,22,Low,43
+2025-06-01 04:14:00,6,2,Minor cuts and bruises,Sunday,4,Low,27
+2025-06-10 15:07:00,18,7,Blurry vision and dizziness,Tuesday,15,Low,43
+2025-06-24 14:14:00,5,4,Blurry vision and dizziness,Tuesday,14,Low,19
+2025-06-18 06:34:00,5,8,Severe abdominal pain,Wednesday,6,Medium,16
+2025-06-02 16:50:00,2,6,High fever and chills,Monday,16,Medium,13
+2025-06-23 06:11:00,6,4,Skin rash and itching,Monday,6,Low,21
+2025-06-02 21:45:00,18,5,Difficulty breathing,Monday,21,Low,46
+2025-06-01 09:23:00,7,9,Skin rash and itching,Sunday,9,Low,10
+2025-06-09 12:11:00,9,7,Severe abdominal pain,Monday,12,Medium,27
+2025-06-18 10:42:00,19,9,Mild headache and nausea,Wednesday,10,Low,40
+2025-06-01 11:57:00,14,7,Difficulty breathing,Sunday,11,Low,38
+2025-06-14 00:21:00,14,1,Minor cuts and bruises,Saturday,0,Low,52
+2025-06-03 05:04:00,0,8,Skin rash and itching,Tuesday,5,Low,0
+2025-06-26 03:53:00,19,4,Minor cuts and bruises,Thursday,3,Low,50
+2025-06-25 06:03:00,6,3,Skin rash and itching,Wednesday,6,Low,22
+2025-06-04 02:00:00,3,7,Minor cuts and bruises,Wednesday,2,Low,5
+2025-06-23 05:38:00,5,3,Skin rash and itching,Monday,5,Low,24
+2025-06-05 06:26:00,0,8,Minor cuts and bruises,Thursday,6,Low,1
+2025-06-17 12:15:00,4,6,Severe abdominal pain,Tuesday,12,Medium,16
+2025-06-18 11:22:00,0,5,Broken ankle after fall,Wednesday,11,Low,9
+2025-06-21 08:20:00,3,4,Difficulty breathing,Saturday,8,Low,18
+2025-06-13 23:01:00,1,8,High fever and chills,Friday,23,Medium,8
+2025-06-08 06:43:00,9,8,Mild headache and nausea,Sunday,6,Low,15
+2025-06-29 11:35:00,4,1,Vomiting and dehydration,Sunday,11,Low,23
+2025-06-25 10:32:00,9,9,Patient reports chest pain and shortness of breath,Wednesday,10,High,25
+2025-06-09 23:23:00,0,5,High fever and chills,Monday,23,Medium,12
+2025-06-26 02:17:00,5,4,Patient reports chest pain and shortness of breath,Thursday,2,High,34
+2025-06-21 03:24:00,12,6,Difficulty breathing,Saturday,3,Low,20
+2025-06-16 11:24:00,14,6,High fever and chills,Monday,11,Medium,46
+2025-06-09 11:14:00,3,2,Minor cuts and bruises,Monday,11,Low,20
+2025-06-11 13:26:00,12,8,Minor cuts and bruises,Wednesday,13,Low,21
+2025-06-11 23:18:00,19,7,Vomiting and dehydration,Wednesday,23,Low,30
+2025-06-14 07:57:00,14,1,Patient reports chest pain and shortness of breath,Saturday,7,High,61
+2025-06-30 20:46:00,7,5,Mild headache and nausea,Monday,20,Low,18
+2025-06-18 10:17:00,4,6,Difficulty breathing,Wednesday,10,Low,16
+2025-06-03 15:09:00,14,4,Minor cuts and bruises,Tuesday,15,Low,38
+2025-06-07 05:45:00,3,2,Broken ankle after fall,Saturday,5,Low,20
+2025-06-05 04:20:00,11,4,Severe abdominal pain,Thursday,4,Medium,36
+2025-06-04 00:37:00,12,1,Severe abdominal pain,Wednesday,0,Medium,41
+2025-06-26 19:20:00,1,7,Skin rash and itching,Thursday,19,Low,7
+2025-06-19 04:29:00,18,2,Mild headache and nausea,Thursday,4,Low,55
+2025-06-12 09:15:00,18,2,Severe abdominal pain,Thursday,9,Medium,58
+2025-06-03 05:56:00,3,9,Skin rash and itching,Tuesday,5,Low,2
+2025-06-23 06:55:00,3,5,Patient reports chest pain and shortness of breath,Monday,6,High,28
+2025-06-30 20:57:00,10,2,Minor cuts and bruises,Monday,20,Low,35
+2025-06-01 03:23:00,4,9,Minor cuts and bruises,Sunday,3,Low,3
+2025-06-17 00:22:00,19,9,Broken ankle after fall,Tuesday,0,Low,34
+2025-06-02 09:35:00,10,1,High fever and chills,Monday,9,Medium,41
+2025-06-17 02:18:00,9,3,Severe abdominal pain,Tuesday,2,Medium,35
+2025-06-26 11:49:00,7,4,Patient reports chest pain and shortness of breath,Thursday,11,High,39
+2025-06-15 21:03:00,5,7,Blurry vision and dizziness,Sunday,21,Low,12
+2025-06-04 13:16:00,5,4,Severe abdominal pain,Wednesday,13,Medium,24
+2025-06-30 17:51:00,7,2,Mild headache and nausea,Monday,17,Low,28
+2025-06-19 01:19:00,14,7,High fever and chills,Thursday,1,Medium,39
+2025-06-20 05:01:00,13,6,Severe abdominal pain,Friday,5,Medium,38
+2025-06-22 00:25:00,10,3,Patient reports chest pain and shortness of breath,Sunday,0,High,52
+2025-06-17 18:50:00,11,6,Severe abdominal pain,Tuesday,18,Medium,30
+2025-06-10 11:26:00,12,6,Mild headache and nausea,Tuesday,11,Low,35
+2025-06-22 03:50:00,7,5,Blurry vision and dizziness,Sunday,3,Low,22
+2025-06-30 21:45:00,17,4,Difficulty breathing,Monday,21,Low,42
+2025-06-24 18:34:00,0,1,Vomiting and dehydration,Tuesday,18,Low,17
+2025-06-06 22:21:00,14,6,Blurry vision and dizziness,Friday,22,Low,30
+2025-06-13 19:13:00,7,2,Skin rash and itching,Friday,19,Low,32
+2025-06-12 01:34:00,10,3,Severe abdominal pain,Thursday,1,Medium,37
+2025-06-17 20:04:00,11,8,Minor cuts and bruises,Tuesday,20,Low,13
+2025-06-03 09:54:00,11,6,Broken ankle after fall,Tuesday,9,Low,27
+2025-06-11 21:01:00,3,3,Minor cuts and bruises,Wednesday,21,Low,20
+2025-06-13 17:03:00,15,7,Blurry vision and dizziness,Friday,17,Low,24
+2025-06-12 18:02:00,3,4,Minor cuts and bruises,Thursday,18,Low,15
+2025-06-23 17:45:00,4,9,Patient reports chest pain and shortness of breath,Monday,17,High,20
+2025-06-02 06:41:00,4,5,Minor cuts and bruises,Monday,6,Low,18
+2025-06-20 19:01:00,7,3,High fever and chills,Friday,19,Medium,30
+2025-06-21 00:53:00,9,2,Difficulty breathing,Saturday,0,Low,29
+2025-06-05 14:48:00,16,2,Severe abdominal pain,Thursday,14,Medium,43
+2025-06-06 20:17:00,8,3,Minor cuts and bruises,Friday,20,Low,30
+2025-06-09 03:27:00,18,2,Mild headache and nausea,Monday,3,Low,49
+2025-06-27 22:35:00,13,4,Difficulty breathing,Friday,22,Low,41
+2025-06-16 08:10:00,7,2,Difficulty breathing,Monday,8,Low,26
+2025-06-19 23:12:00,8,9,Minor cuts and bruises,Thursday,23,Low,18
+2025-06-04 10:35:00,10,2,Difficulty breathing,Wednesday,10,Low,30
+2025-06-27 18:24:00,0,9,Broken ankle after fall,Friday,18,Low,0
+2025-06-15 01:19:00,13,6,Minor cuts and bruises,Sunday,1,Low,31
+2025-06-18 12:08:00,4,1,Patient reports chest pain and shortness of breath,Wednesday,12,High,40
+2025-06-30 00:44:00,13,4,Blurry vision and dizziness,Monday,0,Low,37
+2025-06-01 15:55:00,3,1,High fever and chills,Sunday,15,Medium,29
+2025-06-26 07:33:00,0,6,Vomiting and dehydration,Thursday,7,Low,2
+2025-06-09 10:36:00,18,4,Skin rash and itching,Monday,10,Low,54
+2025-06-02 23:42:00,7,3,Difficulty breathing,Monday,23,Low,29
+2025-06-04 05:06:00,14,3,Patient reports chest pain and shortness of breath,Wednesday,5,High,56
+2025-06-25 09:48:00,14,9,Severe abdominal pain,Wednesday,9,Medium,37
+2025-06-18 03:33:00,8,6,Severe abdominal pain,Wednesday,3,Medium,28
+2025-06-18 04:48:00,8,9,Skin rash and itching,Wednesday,4,Low,12
+2025-06-09 14:54:00,9,5,High fever and chills,Monday,14,Medium,34
+2025-06-18 13:08:00,19,2,Difficulty breathing,Wednesday,13,Low,44
+2025-06-13 12:05:00,8,8,Broken ankle after fall,Friday,12,Low,18
+2025-06-29 04:15:00,2,5,Skin rash and itching,Sunday,4,Low,12
+2025-06-18 14:53:00,19,2,High fever and chills,Wednesday,14,Medium,50
+2025-06-23 05:56:00,10,4,Difficulty breathing,Monday,5,Low,26
+2025-06-15 08:29:00,5,9,Patient reports chest pain and shortness of breath,Sunday,8,High,26
+2025-06-02 04:22:00,1,4,Blurry vision and dizziness,Monday,4,Low,11
